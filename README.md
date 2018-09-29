@@ -6,7 +6,11 @@
 
 .هذا الكود يعتمد على قائمة يدوية للكلمات النابية، والألفاظ الخادشة المحتملة باللغة العربية
 
-يُمكن استخدام هذا الكود بسهولة في المنتديات، أو المواقع الشخصية، أو المدونات التي تتيح نظام التعليقات لكل مقال. أفضل طريقة يمكن استخدامها هي كالآتي:
+يُمكن استخدام هذا الكود بسهولة في المنتديات، أو المواقع الشخصية، أو المدونات التي تتيح نظام التعليقات لكل مقال.
+
+A simple JavaScript code that works as a filter to detect text that contains profane words. This code is based on a manual list of bad dirty words in Arabic
+
+This code can be easily used in forums, personal sites, or blogs that allow comments for each article.
 
 ```javascript
     $("form").submit (function (){
